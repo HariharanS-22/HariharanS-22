@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hariharan S</h1>
+<h1 align="center">Hi, I'm Hariharan </h1>
 <h3 align="center">Aspiring Student, Exploring the verge of technology</h3>
 <img align="right" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg">
 
