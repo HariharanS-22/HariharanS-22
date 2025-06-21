@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hariharan </h1>
+<h1 align="center">Hi there, Hariharan here! </h1>
 <h3 align="center">Electronic Enthusiast | ECE Sophomore </h3> 
 <h3 align="center"> Exploring the World of Embedded Systems and Technology</h3>
 
@@ -39,4 +39,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/a
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+ 
+</p>
+
+---
+
+
+### 📊 GitHub Stats:
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharans-22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hariharans-22&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
