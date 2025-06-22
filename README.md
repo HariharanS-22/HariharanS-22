@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, Hariharan here! </h1>
 <h3 align="center">Electronic Enthusiast | ECE Sophomore </h3> 
 <h3 align="center"> Exploring the World of Embedded Systems and Technology</h3>
-<p>
-  <img src="https://drive.google.com/file/d/1ZuZ_ZTPXgOPB3l9I0yVHPo9CQQUJc01i/view?usp=sharing">
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1ZuZ_ZTPXgOPB3l9I0yVHPo9CQQUJc01i" alt="Circuits" width="300"/>
 </p>
-
 
 - 🔭 I’m an Electronics and Communication Engineering sophomore  
 - 🌱 Currently learning **C++**, **Embedded C**, and **Microcontroller Programming**  
