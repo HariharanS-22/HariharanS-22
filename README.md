@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, Hariharan here! </h1>
 <h3 align="center">Electronic Enthusiast | ECE Sophomore </h3> 
 <h3 align="center"> Exploring the World of Embedded Systems and Technology</h3>
+<p>
+  <img src="https://drive.google.com/file/d/1ZuZ_ZTPXgOPB3l9I0yVHPo9CQQUJc01i/view?usp=sharing">
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg">
 
 - 🔭 I’m an Electronics and Communication Engineering sophomore  
 - 🌱 Currently learning **C++**, **Embedded C**, and **Microcontroller Programming**  
@@ -45,14 +47,3 @@
 </p>
 
 ---
-
-
-### 📊 GitHub Stats:
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharans-22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hariharans-22&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
