@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hariharan 👋</h1>
 <h3 align="center">ECE Sophomore | Embedded Systems & Robotics Enthusiast</h3>
-<img align="right" src="https://drive.google.com/uc?export=view&id=1ZuZ_ZTPXgOPB3l9I0yVHPo9CQQUJc01i" alt="Circuits" width="250"/>
+<img align="right" src="https://drive.google.com/uc?export=view&id=1ZuZ_ZTPXgOPB3l9I0yVHPo9CQQUJc01i" alt="Circuits" width="300"/>
 
 ### 👨‍💻 About Me
 
